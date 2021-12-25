@@ -24,6 +24,9 @@ NOTICE : TO STOP SPAM JUST USE CTRL-C BUTTON !
 
 # DEPLOYING IT TO HEROKU WITH GUI Mode ( Easiest & Recommended Way ! )
 
+# SOME LIVE DEMO OF GUI MODE
+
+DEMO - https://telespambyssohero.herokuapp.com/
 
 # CREDITS 
 
