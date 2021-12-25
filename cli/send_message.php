@@ -5,8 +5,8 @@ include("tokens.php");
 
 set_time_limit(0);
 
-echo " Spam Started For $timelimit ! DO NOT NAVIGATE OUT OF THIS PAGE";
-echo " PRESS CONTROL-C TO STOP";
+echo " Spam Started For Unlimited Seconds ! DO NOT NAVIGATE OUT OF THIS PAGE\n";
+echo " PRESS CONTROL-C TO STOP\n";
 /*$chatid = "-1001731575931";
 $msg = "Testing ... PHP sApi";
 */
